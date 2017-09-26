@@ -18,7 +18,6 @@ public class MyFindArrayTest {
     private int[] inputArr4 = {4, 9, 3, 7, 8, 3, 7, 1};
     private int[] inputArr4a = {3, 7};
     private int[] inputArr5 = {4, 9};
-    private int[] inputArr5a = {4, 9};
 
     @Before
     public void setUp() throws Exception {
